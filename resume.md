@@ -6,7 +6,7 @@ Mahasiswa Ilmu Komputer IPB
 *satria.bayuaji1@gmail.com*
 
 ## Pendidikan
-### Institut Pertanian Bogor --- SKomp
+### Institut Pertanian Bogor — SKomp
 
 Agustus 2017 - Sekarang
 
